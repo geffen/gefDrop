@@ -15,6 +15,8 @@
 		4A1EC0E41BE3245800FD8F48 /* gefDropTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1EC0E31BE3245800FD8F48 /* gefDropTests.swift */; };
 		4A1EC0EF1BE3245800FD8F48 /* gefDropUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1EC0EE1BE3245800FD8F48 /* gefDropUITests.swift */; };
 		4A1EC0FD1BE3276900FD8F48 /* welcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1EC0FC1BE3276900FD8F48 /* welcomeViewController.swift */; };
+		4A1EC0FF1BE3393A00FD8F48 /* settingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1EC0FE1BE3393A00FD8F48 /* settingsViewController.swift */; };
+		4A1EC1011BE33B8400FD8F48 /* existingfilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A1EC1001BE33B8400FD8F48 /* existingfilesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		4A1EC0EE1BE3245800FD8F48 /* gefDropUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gefDropUITests.swift; sourceTree = "<group>"; };
 		4A1EC0F01BE3245900FD8F48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A1EC0FC1BE3276900FD8F48 /* welcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = welcomeViewController.swift; sourceTree = "<group>"; };
+		4A1EC0FE1BE3393A00FD8F48 /* settingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = settingsViewController.swift; sourceTree = "<group>"; };
+		4A1EC1001BE33B8400FD8F48 /* existingfilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = existingfilesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				4A1EC0CE1BE3245800FD8F48 /* AppDelegate.swift */,
 				4A1EC0D01BE3245800FD8F48 /* ViewController.swift */,
 				4A1EC0D21BE3245800FD8F48 /* Main.storyboard */,
+				4A1EC1001BE33B8400FD8F48 /* existingfilesViewController.swift */,
+				4A1EC0FE1BE3393A00FD8F48 /* settingsViewController.swift */,
 				4A1EC0FC1BE3276900FD8F48 /* welcomeViewController.swift */,
 				4A1EC0D51BE3245800FD8F48 /* Assets.xcassets */,
 				4A1EC0D71BE3245800FD8F48 /* LaunchScreen.storyboard */,
@@ -263,8 +269,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A1EC0FD1BE3276900FD8F48 /* welcomeViewController.swift in Sources */,
+				4A1EC1011BE33B8400FD8F48 /* existingfilesViewController.swift in Sources */,
 				4A1EC0D11BE3245800FD8F48 /* ViewController.swift in Sources */,
 				4A1EC0CF1BE3245800FD8F48 /* AppDelegate.swift in Sources */,
+				4A1EC0FF1BE3393A00FD8F48 /* settingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
