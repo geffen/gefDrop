@@ -6,4 +6,6 @@ Dropbox-like codepath
 First-pass : 3 hours
 Missing keyboard open/close
 Visual align issues
-+ Optionals
+Random button labels
+
+* [ ] Needs Optionals 
